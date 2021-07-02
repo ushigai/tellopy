@@ -1,8 +1,3 @@
-"""
-takeoff(離陸)とland(着陸)を行うプログラム
-"""
-
-
 import ushigai.pytello
 
 tello = ushigai.pytello.PYtello()
